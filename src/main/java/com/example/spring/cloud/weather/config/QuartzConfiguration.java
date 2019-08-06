@@ -6,7 +6,7 @@ import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 
 /**
- * Created by wrb on 2018/8/22
+ * Created by wzy on 2019/8/6
  */
 @Configuration
 public class QuartzConfiguration {

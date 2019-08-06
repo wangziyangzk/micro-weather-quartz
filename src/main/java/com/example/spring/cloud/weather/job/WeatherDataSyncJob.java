@@ -15,7 +15,7 @@ import java.util.List;
 
 /**
  * 天气数据同步job
- * Created by wrb on 2018/8/22
+ * Created by wzy on 2019/8/6
  */
 public class WeatherDataSyncJob extends QuartzJobBean {
     private final static Logger logger = LoggerFactory.getLogger(WeatherDataSyncJob.class);

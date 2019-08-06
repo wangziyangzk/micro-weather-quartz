@@ -6,7 +6,7 @@ import javax.xml.bind.annotation.XmlAttribute;
 import javax.xml.bind.annotation.XmlRootElement;
 
 /**
- * Created by wrb on 2018/8/22
+ * Created by wzy on 2019/8/6
  */
 @XmlRootElement(name = "d")
 @XmlAccessorType(XmlAccessType.FIELD)

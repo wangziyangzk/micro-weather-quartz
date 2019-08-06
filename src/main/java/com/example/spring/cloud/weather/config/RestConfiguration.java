@@ -8,7 +8,7 @@ import org.springframework.web.client.RestTemplate;
 
 /**
  * Rest Configuration
- * Created by wrb on 2018/8/22
+ * Created by wzy on 2019/8/6
  */
 @Configuration
 public class RestConfiguration {

@@ -4,7 +4,7 @@ import java.io.Serializable;
 
 /**
  * weather response
- * Created by wrb on 2018/8/22
+ * Created by wzy on 2019/8/6
  */
 public class WeatherResponse implements Serializable {
     private static final long serialVersionUID = 1L;

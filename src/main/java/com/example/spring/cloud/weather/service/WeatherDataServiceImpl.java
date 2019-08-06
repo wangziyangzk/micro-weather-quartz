@@ -16,7 +16,7 @@ import java.util.concurrent.TimeUnit;
 
 /**
  * WeatherDataService 实现
- * Created by wrb on 2018/8/22
+ * Created by wzy on 2019/8/6
  */
 @Service
 public class WeatherDataServiceImpl implements WeatherDataService {

@@ -4,7 +4,7 @@ import java.io.Serializable;
 
 /**
  * 未来天气
- * Created by wrb on 2018/8/22
+ * Created by wzy on 2019/8/6
  */
 public class Forecast implements Serializable {
 

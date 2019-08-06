@@ -3,7 +3,7 @@ package com.example.spring.cloud.weather.service;
 import com.example.spring.cloud.weather.vo.WeatherResponse;
 
 /**
- * Created by wrb on 2018/8/22
+ * Created by wzy on 2019/8/6
  */
 public interface WeatherDataService {
 
